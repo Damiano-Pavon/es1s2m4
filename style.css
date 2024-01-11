@@ -1,0 +1,15 @@
+.riga .card img {
+  aspect-ratio: 1/1;
+  height: 300px;
+  object-fit: cover;
+}
+.riga {
+  text-align: center;
+  justify-content: center;
+}
+.card-body {
+  height: 100px;
+}
+p {
+  font-weight: bold;
+}
